@@ -1,0 +1,54 @@
+# Roblox Studio Files
+*.rbxl
+*.rbxlx
+*.rbxm
+*.rbxmx
+
+# Temporary Files
+*.tmp
+*.temp
+*~
+.DS_Store
+Thumbs.db
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.sublime-*
+*.swp
+*.swo
+
+# Rojo Build Files
+build/
+dist/
+
+# Node Modules (if using Rojo/roblox-ts)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Environment Variables
+.env
+.env.local
+
+# Logs
+*.log
+logs/
+
+# OS Generated
+.DS_Store
+.AppleDouble
+.LSOverride
+Desktop.ini
+ehthumbs.db
+
+# Roblox Plugin Files
+*.rbxp
+
+# Test Files
+test-results/
+coverage/
+
+# Build Artifacts
+*.min.lua
+sourcemap.json
