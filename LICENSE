@@ -1,0 +1,61 @@
+MIT License
+
+Copyright (c) 2026 Relic Rush Framework Contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+ROBLOX TERMS OF SERVICE COMPLIANCE
+
+This framework is designed to be fully compliant with Roblox's Terms of Service.
+
+By using this framework, you agree to:
+1. Use it only within the bounds of Roblox's Terms of Service
+2. Not use it for creating content that violates Roblox Community Standards
+3. Not use it to create exploits, cheats, or malicious content
+4. Properly attribute if you redistribute or significantly modify the framework
+
+ORIGINAL WORK DECLARATION
+
+This framework is entirely original work:
+- All code written specifically for this framework
+- No copying from existing games or frameworks
+- All game mechanics and systems are original designs
+- All naming conventions and terminology are original
+
+THIRD-PARTY DEPENDENCIES
+
+This framework is designed to work with:
+- Roblox Engine (proprietary, owned by Roblox Corporation)
+- ProfileService (optional, separate license, by MadStudioRoblox)
+
+Users are responsible for complying with the licenses of any optional
+third-party dependencies they choose to integrate.
+
+WARRANTY DISCLAIMER
+
+This framework is provided for educational and development purposes.
+The authors make no warranties about the framework's fitness for any
+particular purpose. Use at your own risk.
+
+CONTRIBUTION
+
+By contributing to this framework, you agree that your contributions
+will be licensed under the same MIT License.
